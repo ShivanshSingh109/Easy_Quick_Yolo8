@@ -1,7 +1,4 @@
 <html>
-<head>
-    <title>YOLO Quick Guide</title>
-</head>
 <body>
     <h1>Easy Quick YOLO Guide</h1>
     <p>Follow these simple steps to set up and run YOLO for classification or detection.</p>
